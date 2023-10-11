@@ -1,2 +1,7 @@
-# YouTubeFlutter
-Flutter-based UI for a consistent cross-platform experience. Integration with YouTube API for up-to-date content. Customizable video player with playback controls. Efficient search and discovery functionalities.
+# youTube
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
